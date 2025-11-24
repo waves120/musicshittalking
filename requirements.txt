@@ -1,0 +1,5 @@
+torch
+numpy
+PyQt5
+transformers
+scipy
